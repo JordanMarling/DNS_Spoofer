@@ -27,6 +27,7 @@
 *.lib
 
 # Executables
+dns_spoofer
 *.exe
 *.out
 *.app
